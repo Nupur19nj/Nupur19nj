@@ -19,7 +19,7 @@
 
 
 # Hacktoberfest 2023
-![An image of @nupur19nj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@nupur19nj)
+![An image of @nupur19nj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nupur19nj)
 
 
 <h3 align="left">Languages and Tools:</h3>
